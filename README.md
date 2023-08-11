@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Aditya
-- 👀 I'm working on Test Automation
+- 👀 I'm working on Software Automation > RPA, Cypress, Selenium
 - 🌱 Let's Solve Something New!
